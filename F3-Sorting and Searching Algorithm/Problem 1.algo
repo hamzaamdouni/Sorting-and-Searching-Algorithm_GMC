@@ -6,7 +6,6 @@ VAR
 
 BEGIN
 
-    i = 1;
     FOR i FROM 1 TO tab.lenght-1 STEP 1  DO
 
         j = i - 1;
